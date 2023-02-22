@@ -1,16 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-<!--
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
--->
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -37,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians App <a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
-**Math Magicians App** is a Single Page App (SPA) website for all fans of mathematics which allows users to make simple calculations and read a random math-related quote.
+**Math Magicians** is a Single Page App (SPA) website for all fans of mathematics which allows users to make simple calculations and read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -83,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://dazehinn.github.io/Math-Magicians/)
+- coming soon...
 <!--  
 - [Video presentation](https://www.loom.com/share/)
 -->
