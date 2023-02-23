@@ -3,10 +3,10 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
 .App {
   text-align: center;
 }
-
 
 .Calculator {
   display: grid;
@@ -24,42 +24,37 @@ body {
   grid-column: 1 / -1;
   text-align: end;
   vertical-align: middle;
-  }
+}
 
-  .operator {
-    background-color: rgb(235, 119, 77);
-    grid-column: 4 / 5;
+.operator {
+  background-color: rgb(235, 119, 77);
+  grid-column: 4 / 5;
+}
 
-  }
+button {
+  padding: 2px;
+}
 
-  button {
-    padding: 2px;
-  }
-  
-  .zero {
-    grid-column: span 2;
-  }
+.zero {
+  grid-column: span 2;
+}
 
-  .divides {
-    grid-row: 2 / 3;
-  }
+.divides {
+  grid-row: 2 / 3;
+}
 
-  .multiplies {
-    grid-row: 3 / 4;
-  }
+.multiplies {
+  grid-row: 3 / 4;
+}
 
-  .subtracts {
-    grid-row: 4 / 5;
-  }
+.subtracts {
+  grid-row: 4 / 5;
+}
 
-  .adds {
-    grid-row: 5 / 6;
-  }
+.adds {
+  grid-row: 5 / 6;
+}
 
-  .equals {
-    grid-row: 6 / 7;
-  }
-
-  .divides {
-    grid-row: 2 / 3;
-  }
+.equals {
+  grid-row: 6 / 7;
+}
