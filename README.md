@@ -94,6 +94,7 @@ In order to run this project you need:
 - [ ] Knowledge of some basic Git commands
 - [ ] A browser like Brave, Google Chrome, Mozilla Firefox or Microsoft Edge
 - [ ] Git installed
+- [ ] Node.js
 
 ### Setup
 
@@ -119,6 +120,11 @@ code .
 
 ```
 npx create-react-app .
+```
+- [ ] Install node modules:
+
+```
+npm install
 ```
 
 ### Usage
