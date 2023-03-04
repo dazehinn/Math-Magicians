@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(56, 49, 49);
+}
+
+.logo {
+  color: wheat;
+  padding: 10px 0 10px 10px;
+  font-size: 35px;
+}

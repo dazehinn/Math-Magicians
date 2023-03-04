@@ -1,0 +1,42 @@
+nav {
+  padding: 10px 20px 10px 10px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 15px;
+}
+
+.liBorder {
+  border-left: 1px solid wheat;
+  border-right: 1px solid wheat;
+  padding: 0 5px 0 5px;
+}
+
+.active {
+  color: wheat;
+}
+
+.noActive {
+  color: silver;
+}
+
+.link {
+  font-size: 18px;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 454px) {
+  nav {
+    padding-right: 5px;
+  }
+
+  ul {
+    gap: 8px;
+  }
+
+  .link {
+    font-size: 12px;
+  }
+}
