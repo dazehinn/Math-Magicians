@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- coming soon...
+- [view demo here](https://math-magicians-gg5c.onrender.com/)
 <!--  
 - [Video presentation](https://www.loom.com/share/)
 -->
@@ -157,7 +157,7 @@ npm run build
 
 ## 👥 Authors <a name="authors"></a>
 
-👥 **Henschel Nketchogue M.**
+👥 **Nshanji Hilary Ndzi**
 
 - GitHub: [dazehinn](https://github.com/dazehinn)
 - Twitter: [HilaryNdzi](https://twitter.com/HilaryNdzi)
